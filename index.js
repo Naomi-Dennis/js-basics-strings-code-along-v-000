@@ -2,3 +2,4 @@
 var currentUser = "The 'currentUser' variable must contain a string"
 var welcomeMessage = "Welcome to Flatbook, " + currentUser + "!"
 var excitedWelcomeMessage = "Welcome to Flatbook, " + currentUser.toUpperCase() + "!"
+var shortGreeting = "Welcome, " + currentUser[0] + "!"
